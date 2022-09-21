@@ -17,7 +17,7 @@ public void paymen1() {
 	String s2 = s1.replaceAll("[^0-9]", "");
 	int n1 = Integer.parseInt(s2);
 	System.out.println(n1);
-	//hi
+	//hii
 	
 	
 	comman.clickOnrequriedTab(TabNames.PAYMENTS);
