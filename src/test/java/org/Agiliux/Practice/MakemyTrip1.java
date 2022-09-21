@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class MakemyTrip {
+public class MakemyTrip1 {
 
 	public static void main(String[] args) throws EncryptedDocumentException, IOException {
 		FileInputStream fis = new FileInputStream("./src/test/resources/Testdata.xlsx");
